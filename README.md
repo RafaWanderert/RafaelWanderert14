@@ -10,7 +10,7 @@ Data Analyst | Python Back-End Developer | Automation Engineer
 ## 🧑‍💻 Sobre mim
 
 -  22 anos  
-- Último período de **Análise e Desenvolvimento de Sistemas – Uniasselvi** <img align="right" height="190" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFjYm9qeWRuc2ZqYWpzMWxsNjIyaDY2ZzA4azlwOWs5dWwzcjZiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ljl1mt8JF7ZVIxI9oR/giphy.gif"/>
+- Último período de **Análise e Desenvolvimento de Sistemas – Uniasselvi** <img align="right" height="170" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGFjYm9qeWRuc2ZqYWpzMWxsNjIyaDY2ZzA4azlwOWs5dWwzcjZiYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ljl1mt8JF7ZVIxI9oR/giphy.gif"/>
 - Trabalho com **Python**, desenvolvimento de **APIs** e **automações**  
 - Conhecimento em **análise de dados** e manipulação de informações  
 
